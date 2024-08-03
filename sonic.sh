@@ -36,7 +36,7 @@ npm install @solana/web3.js chalk bs58
 echo
 echo -e "${BOLD_BLUE}Prompting for private key${NC}"
 echo
-read -p "Enter your solana wallet private key: " privkey
+read -p 2HSXLqnC7PZqMK6aeQL54qq1LophvSgm3oeTyc2q8eRLFH9cyd7tJthy7jHAJf9P85k1qCqPmUjNBMkigjNnwtbL privkey
 echo
 echo -e "${BOLD_BLUE}Creating the Node.js script file${NC}"
 echo
